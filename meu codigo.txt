@@ -1,2 +1,6 @@
 meu nome é Angélica
 alteraçao
+brach
+git branch  > ver quantas branch tenho
+git branch 'nome da nova branch'
+git checkout 'nome da branch'> trabalhar com a branch nova que criei
